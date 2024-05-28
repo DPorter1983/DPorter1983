@@ -30,6 +30,10 @@
 
 
 [linkedin]: https://linkedin.com/in/dpdesignz
+twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 
 
