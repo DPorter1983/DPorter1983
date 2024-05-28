@@ -5,6 +5,8 @@
 - <b>Active Directory Lab</b>
   -  <b>Add new user</b>
   - <b>Password Reset</b>
+  -  <b>Group Policy</b>
+  -  <b>Add computer to Domain Controller</b>
 <h2>Linux Projects</h2>
  <b> Install software </b>
 
