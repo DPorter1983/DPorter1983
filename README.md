@@ -1,4 +1,4 @@
-<h1>Hi, I'm Diane <br/><a href="https://github.com/joshmadakor1">Aspiring IT Propfessional</a> <a href="https://www.linkedin.com/in/joshmadakor/"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Diane <br/><a href="https://github.com/joshmadakor1">Aspiring IT Professional</a> <a href="https://www.linkedin.com/in/joshmadakor/"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>Help Desk Projects</h2>
 
