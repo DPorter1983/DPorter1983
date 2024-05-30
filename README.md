@@ -17,7 +17,7 @@
     
 <h2>Certifications</h2>
 
-- Google IT Certification
+- Google IT Support Certification
 - CompTIA A+
 
 
