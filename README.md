@@ -19,7 +19,7 @@
 
 - Google IT Support Certification
 - CompTIA A+
-
+- AWS Cloud Practitioner
 
 <h2> 🤳 Connect with me:</h2>
 
