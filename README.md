@@ -7,11 +7,11 @@
   - <b>Password Reset</b>
   -  <b>Group Policy</b>
   -  <b>Add computer to Domain Controller</b>
-<h2>Linux Projects</h2>
- <b> Install software </b>
+<h2>Entra ID</h2>
+ <b>   </b>
 
 
-<h2>Windows Projects</h2> 
+<h2>Micrsoft Intune</h2> 
    <b>Power Shell</b>
 
     
