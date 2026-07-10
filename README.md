@@ -11,7 +11,7 @@
  <b>   </b>
 
 
-<h2>Micrsoft Intune</h2> 
+<h2>Microsoft Intune</h2> 
    <b>Power Shell</b>
 
     
