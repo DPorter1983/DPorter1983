@@ -12,7 +12,7 @@
 
 
 <h2>Microsoft Intune</h2> 
-   <b>Power Shell</b>
+   <b> </b>
 
     
 <h2>Certifications</h2>
