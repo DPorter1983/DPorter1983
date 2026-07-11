@@ -21,7 +21,7 @@
 
 - <b>Ticketing System Lab</b>
   -  <b>SpiceWorks</b>
-  - <b>Jirat</b>
+  - <b>Jira</b>
   -  <b>ServiceNow</b>
   
 
