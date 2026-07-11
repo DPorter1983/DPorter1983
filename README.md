@@ -12,9 +12,7 @@
   - <b>Password Reset</b>
   -  <b>Group Policy</b>
   -  <b>Add computer to Domain Controller</b>
-
- - <b>Intune Lab</b>
- 
+- <b>Intune Lab</b>
   -  <b>Add new user</b>
   - <b>Password Reset</b>
   -  <b>Group Policy</b>
