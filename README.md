@@ -2,7 +2,7 @@
 
 <h2>Help Desk Projects</h2>
 
-- <h1>Active Directory Lab</h1>
+- <b>Active Directory Lab</b>
   -  <b>Add new user</b>
   - <b>Password Reset</b>
   -  <b>Group Policy</b>
