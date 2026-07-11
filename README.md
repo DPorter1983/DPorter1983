@@ -8,7 +8,7 @@
   -  <b>Group Policy</b>
   -  <b>Add computer to Domain Controller</b>
 <h2>Entra ID</h2>
-  -  <b>Add new user</b>
+   -  <b>Add new user</b>
   - <b>Password Reset</b>
   -  <b>Group Policy</b>
   -  <b>Add computer to Domain Controller</b>
