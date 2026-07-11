@@ -7,7 +7,7 @@
   - <b>Password Reset</b>
   -  <b>Group Policy</b>
   -  <b>Add computer to Domain Controller</b>
-- <b>Active Directory Lab</b>
+- <b>Entra ID Lab</b>
   -  <b>Add new user</b>
   - <b>Password Reset</b>
   -  <b>Group Policy</b>
