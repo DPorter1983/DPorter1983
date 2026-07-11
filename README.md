@@ -12,19 +12,18 @@
   - <b>Password Reset</b>
   -  <b>Group Policy</b>
   -  <b>Add computer to Domain Controller</b>
- 
-
-<h2>Microsoft Intune</h2> 
-   -  <b>Add new user</b>
-  - <b>Password Reset</b>
-  -  <b>Group Policy</b>
-  -  <b>Add computer to Domain Controller</b>
-<h2>Ticketing Systems</h2>
+ - <b>Intune Lab</b>
   -  <b>Add new user</b>
   - <b>Password Reset</b>
   -  <b>Group Policy</b>
   -  <b>Add computer to Domain Controller</b>
-    
+- <b>Ticketing System Lab</b>
+  -  <b>SpiceWorks</b>
+  - <b>Jirat</b>
+  -  <b>ServiceNow</b>
+  
+
+
 <h2>Certifications</h2>
 
 - Google IT Support Certification
